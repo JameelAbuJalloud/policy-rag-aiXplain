@@ -55,7 +55,7 @@ Policy RAG is an advanced AI-powered application designed to help users navigate
   * `uploaded_files/`: User documents
   * `chromadb_data/`: Persistent vector storage
 
-### 📊 Initial Dataset
+### Initial Dataset
 
 Policy Navigator comes with a pre-loaded initial dataset to demonstrate its capabilities. These files are located in the `data/initial_data/` directory and are automatically indexed when the application starts or when the knowledge base is rebuilt.
 
