@@ -97,6 +97,7 @@ pip install -r requirements.txt
 3. **Setup Frontend**
 
 ```bash
+cd frontend
 npm install
 ```
 
