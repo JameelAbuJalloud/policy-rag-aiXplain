@@ -1,0 +1,22 @@
+# Core Dependencies
+flask
+flask-cors
+python-dotenv
+pandas
+chromadb
+PyPDF2
+
+# AI/ML Dependencies
+aixplain
+
+# HTTP Client
+requests
+
+# Development Tools
+black
+isort
+pylint
+
+# Testing
+pytest
+pytest-cov

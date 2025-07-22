@@ -1,0 +1,119 @@
+USER: Hi
+
+---
+ASSISTANT: Hello. How can I assist you?
+Sources: test_policy.csv
+
+---
+USER: Is Executive Order 14067 still in effect?
+
+---
+ASSISTANT: Yes, Executive Order 14067 is still active.
+Sources: Federal Register - EO 14067
+
+---
+USER: What are the current data privacy policies?
+
+---
+ASSISTANT: There are multiple instances of the same policy provided in the context. 
+
+The current Data Privacy Policy is: 
+Data Privacy Policy
+Policy ID: POL-001
+Description: Governs the collection and use of personal data
+Status: Active
+Effective Date: 2023-01-01
+Sources: test_policy.csv
+
+---
+USER: Which policies are under review?
+
+---
+ASSISTANT: All policies with the ID POL-003 are under review.
+Sources: test_policy.csv
+
+---
+USER: What security standards are required?
+
+---
+ASSISTANT: The security standards required are defined in the "Security Standards" policy with ID POL-002.
+Sources: test_policy.csv
+
+---
+USER: Has Executive Order 13990 been repealed?
+
+---
+ASSISTANT: The answer is: No, it's not in the context.
+Sources: Federal Register - EO 13990
+
+---
+USER: What is the status of our remote work policy?
+
+---
+ASSISTANT: The status of the remote work policy is "Under Review".
+Sources: test_policy.csv
+
+---
+USER: Show me all active policies from 2023
+
+---
+ASSISTANT: There are multiple instances of the same policy in the context. 
+
+The active Data Privacy Policy with ID POL-001 is currently in effect, with an effective date of 2023-01-01.
+Sources: test_policy.csv
+
+---
+USER: is that all active policies from 2023
+
+---
+ASSISTANT: I don't have information about that in the indexed documents.
+Sources: test_policy.csv
+
+---
+USER: in which year i aske to check from?
+
+---
+ASSISTANT: I don't have information about that in the indexed documents.
+Sources: test_policy.csv
+
+---
+USER: go to hill
+
+---
+ASSISTANT: I don't have information about "go to hill" in the indexed documents.
+Sources: test_policy.csv
+
+---
+USER: why
+
+---
+ASSISTANT: I don't have information about that in the indexed documents.
+Sources: test_policy.csv
+
+---
+USER: Hi
+
+---
+ASSISTANT: Hello. How can I assist you?
+Sources: test_policy.csv
+
+---
+USER: what is the color of the sky?
+
+---
+ASSISTANT: I don't have information about the color of the sky in the indexed documents.
+Sources: test_policy.csv
+
+---
+USER: hi
+
+---
+ASSISTANT: I don't have information about that in the indexed documents.
+Sources: test_policy.csv
+
+---
+USER: Hi
+
+---
+ASSISTANT: Hello. How can I assist you?
+Sources: test_policy.csv
