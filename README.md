@@ -259,8 +259,6 @@ policy-rag-aiXplain/
 - **Keyboard navigation**: Complete keyboard-only operation
 - **Rich text editor**: Format questions with markdown support
 
-### Long-term Vision (6-12 months)
-
 #### Enterprise Features
 - **Multi-tenant architecture**: Support for multiple organizations
 - **SSO integration**: SAML, OAuth, Active Directory support
