@@ -325,7 +325,7 @@ MIT License. See [LICENSE](LICENSE).
 
 ## 📞 Support
 
-* GitHub Issues: [Issues Page](https://github.com/JameelAhuJalloud/policy-rag-aiXplain/issues)
+* GitHub Issues: [Issues Page](https://github.com/JameelAbuJalloud/policy-rag-aiXplain/issues)
 * Contact: via GitHub profile
 
 ---
