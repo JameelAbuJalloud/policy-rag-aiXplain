@@ -216,7 +216,8 @@ policy-rag-aiXplain/
 * **Embedding errors**: Check API key and model ID
 * **Documents not shown**: Reindex via `/api/rebuild-index`
 
-## Future Improvements
+
+## 🔥 Future Improvements
 
 #### Authentication & User Management
 - Implement user authentication with JWT tokens
